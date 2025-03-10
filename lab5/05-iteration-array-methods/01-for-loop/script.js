@@ -25,6 +25,7 @@
 
 // Loop through an array
 const names = ['Brad', 'Sam', 'Sara', 'John', 'Tim'];
+console.log(names);
 
 for (let i = 0; i < names.length; i++) {
   if (names[i] === 'John') {
